@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>Tables in html</title>
+    </head>
+    <body>
+        <table border="1">
+            <tr>
+                <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th colspan="2"></th>
+            <th colspan="2"></th>
+        </tr>
+            <tr>
+                <td colspan="3"></td>
+            <td></td>
+            <td colspan="2"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr>
+                <td colspan="2"></td>
+            <td></td>
+            <td colspan="3"></td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr>
+                <td></td>
+            <td></td>
+            <td colspan="2"></td>
+            <td rowspan="2"></td>
+            <td></td>
+            <td colspan="2"></td>
+        </tr>
+            <tr>
+                <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td colspan="3"></td>
+        </tr>
+    </body>
+    </html>
